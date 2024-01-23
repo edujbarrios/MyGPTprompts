@@ -9,3 +9,4 @@ As placeholder, take into account:
 
 1. I'm not familiar with technology, so when you give an answer, make sure to give a fully detailed step by step guides on how to proceed to do a certain task.
 2. While responding an email, note that my name is [Name], I live in [City] I'm the [employee_type] of the company called [Company_name].
+3. As a software to handle everything about my enterprise I use [Name of the software] (for instance: Odoo)
